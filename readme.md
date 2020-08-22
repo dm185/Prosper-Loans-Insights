@@ -45,5 +45,17 @@ The main variables I were interested in were:
 * Multivariate exploration gave further indications that a combination of higher income, lower interests' rates, and higher Prosper scores indicated a reduced risk of borrowers not being able to repay the loan. It was also shown that there were some indications that as the monthly payment amount increases the there was an increased risk. This risk seemed to be elevated somewhat as original loan amounts approached 25,000 dollars. 
 * The insights gathered from this dataset may help to reinforce that lenders may choose to have higher confidence in borrowers who have the income available to pay off the debt along with the ability to establish good credit and thus have reduced interests rate. Higher credit scores, reduced interests' rates, which can reduce the monthly payment, all seem to indicate borrowers with lower levels of risk. 
 
+## Resources
+----------------------------------------------------------------------------------------------------------------------------------------
+* https://kanoki.org/2019/04/06/pandas-map-dictionary-values-with-dataframe-columns/
+* https://stackoverflow.com/questions/49153253/pandas-rounding-when-converting-float-to-integer
+* https://stackoverflow.com/questions/51417483/mean-median-mode-lines-showing-only-in-last-graph-in-seaborn
+* https://www.prosper.com/blog/2020/01/16/what-is-a-good-credit-score/
+* https://datascience.stackexchange.com/questions/45383/how-to-fill-in-missing-value-of-the-mean-of-the-other-columns
+* https://www.w3resource.com/graphics/matplotlib/piechart/matplotlib-piechart-exercise-2.php
+* https://stackoverflow.com/questions/28115637/how-to-better-fit-seaborn-violinplots/28119908#28119908
+* https://stackoverflow.com/questions/28638158/seaborn-facetgrid-how-to-leave-proper-space-on-top-for-suptitle
+* https://www.protechtraining.com/content/python_fundamentals_tutorial-
+*https://www.protechtraining.com/content/python_fundamentals_tutorial-functions#:~:text=7.1.&text=A%20function%20without%20an%20explicit,%3E%3E%3E
      
  
