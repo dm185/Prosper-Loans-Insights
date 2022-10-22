@@ -5,7 +5,7 @@
 
 ## Dataset
 ------------------------------------------------------
-The Prosper loan dataset consists of 113,937 columns and 82 columns. The columns within this dataset consists of qualitative, quantitative and Boolean datatypes. For this data exploration project, I trimmed down the number of columns from 82 down to 25. The reduction in columns made it easier to work with dataset consisting of the variables I found relevant for the project. 
+The Prosper loan dataset consists of 113,937 rows and 82 columns. The columns within this dataset consists of qualitative, quantitative and Boolean datatypes. For this data exploration project, I trimmed down the number of columns from 82 down to 25. The reduction in columns made it easier to work with dataset consisting of the variables I found relevant for the project. 
 
  Prior to doing any exploration, a couple of the columns were renamed to avoid potential type errors. Some of the datatypes were changed over to a categorical datatype. A new column was created that actually displayed the reason for a borrower took out a loan instead of an assigned number as is assigned on the original dataset. Null values for a couple of the numeric datatype columns were filled in with median values over the mean. The reasoning for this was due to some of the outliers as outliers do not tend to affect the median.
 The main variables I were interested in were:
